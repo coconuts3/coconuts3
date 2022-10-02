@@ -7,9 +7,9 @@ Scratchでは依頼をやっているのでそちらもどうぞ。
 ではまた。
 
 <h2>Account</h2>
-Scratch : [l___coconut___l](https://scratch.mit.edu/users/l___coconut___l/)
-Replit : [ここなっつ](https://replit.com/@coconats)
-Glitch : [coconats](https://glitch.com/@coconats)
+Scratch : [l___coconut___l](https://scratch.mit.edu/users/l___coconut___l/)<br>
+Replit : [ここなっつ](https://replit.com/@coconats)<br>
+Glitch : [coconats](https://glitch.com/@coconats)<br>
 
 ![ここなっつ](https://uploda1.ysklog.net/uploda/96a1699184.png
  "I am coconats")
