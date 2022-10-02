@@ -7,7 +7,7 @@ Scratchでは依頼をやっているのでそちらもどうぞ。
 ではまた。
 
 <h2>Account</h2>
-Scratch : <a href="https://scratch.mit.edu/users/l___coconut___l/">l___coconut__l
+Scratch : <a href="https://scratch.mit.edu/users/l___coconut___l/">l___coconut__l</a><br>
 Replit : <a href="https://replit.com/@coconats">ここなっつ</a><br>
 Glitch : <a href="https://glitchcoconats">coconats</a><br>
 
