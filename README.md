@@ -1,12 +1,12 @@
 # l___coconut___l
-##About me
+<h2>About</h2>
 こんにちは～。ここなっつです。Scratchやってます。
 HTML・CSS・JavaScriptなどいろいろやってます。
 Scratchでは依頼をやっているのでそちらもどうぞ。
 いろいろとGithubにあるので見てくださいね～。
 ではまた。
 
-##Acount
+<h2>Account</h2>
 Scratch : [l___coconut___l](https://scratch.mit.edu/users/l___coconut___l/)
 Replit : [ここなっつ](https://replit.com/@coconats)
 Glitch : [coconats](https://glitch.com/@coconats)
